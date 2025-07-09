@@ -10,7 +10,7 @@ body {
 /* Form Container */
 .container {
   max-width: 500px;
-  margin: 60px auto;
+  margin: 10px auto;
   padding: 30px;
   background: rgba(25, 25, 25, 0.95);
   border-radius: 15px;
